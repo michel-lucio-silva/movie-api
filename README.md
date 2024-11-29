@@ -3,7 +3,7 @@
 ## Instruções para Rodar
 
 1. Clone o repositório.
-2. Coloque o arquivo csv na pasta data.
+2. Coloque o arquivo csv na pasta data, como o nome "movielist.csv".
 3. Instale as dependências:
 
 pip install -r requirements.txt
